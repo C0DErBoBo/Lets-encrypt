@@ -2,7 +2,7 @@
 Fork from https://github.com/xdtianyu/scripts/tree/master/lets-encrypt
 
 
-A shell script to get/update Let's encrypt certs quickly. [中文](https://github.com/carpliyz/lets-encrypt/README-CN.md)
+A shell script to get/update Let's encrypt certs quickly. [中文](https://github.com/carpliyz/Lets-encrypt/blob/master/README-CN.md)
 ------------
 
 This script uses acme_tiny.py to auth, fetch and update cert，no need for other dependency.
