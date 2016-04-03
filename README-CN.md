@@ -6,8 +6,8 @@
 **下载到本地**
 
 ```
-wget https://raw.githubusercontent.com/xdtianyu/scripts/master/lets-encrypt/letsencrypt.conf
-wget https://raw.githubusercontent.com/xdtianyu/scripts/master/lets-encrypt/letsencrypt.sh
+wget https://raw.githubusercontent.com/carpliyz/Lets-encrypt/master/letsencrypt.conf
+wget https://raw.githubusercontent.com/carpliyz/Lets-encrypt/master/letsencrypt.sh
 chmod +x letsencrypt.sh
 ```
 
@@ -38,9 +38,9 @@ DOMAINS="DNS:example.com,DNS:whatever.example.com"
 
 **将会生成如下几个文件**
 
-    lets-encrypt-x1-cross-signed.pem
+    lets-encrypt-x3-cross-signed.pem
     example.chained.crt          # 即网上搜索教程里常见的 fullchain.pem
-    example.com.key              # 即网上搜索教程里常见的 privkey.pem 
+    example.com.key              # 即网上搜索教程里常见的 privkey.pem
     example.crt
     example.csr
 
