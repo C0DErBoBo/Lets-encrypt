@@ -10,8 +10,8 @@ This script uses acme_tiny.py to auth, fetch and update cert，no need for other
 **Download**
 
 ```
-wget https://raw.githubusercontent.com/xdtianyu/scripts/master/lets-encrypt/letsencrypt.conf
-wget https://raw.githubusercontent.com/xdtianyu/scripts/master/lets-encrypt/letsencrypt.sh
+wget https://raw.githubusercontent.com/carpliyz/Lets-encrypt/master/letsencrypt.conf
+wget https://raw.githubusercontent.com/carpliyz/Lets-encrypt/master/letsencrypt.sh
 chmod +x letsencrypt.sh
 ```
 
