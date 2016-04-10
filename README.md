@@ -1,6 +1,7 @@
 # Lets-encrypt
 COPY from https://github.com/xdtianyu/scripts/tree/master/lets-encrypt
 
+**在[xdtianyu](https://github.com/xdtianyu/scripts/tree/master/lets-encrypt)基础上修改了2个重要的参数**
 
 A shell script to get/update Let's encrypt certs quickly. [中文](https://github.com/carpliyz/Lets-encrypt/blob/master/README-CN.md)
 ------------
